@@ -1,0 +1,26 @@
+{
+  "name": "repro case",
+  "version": "0.0.1",
+  "description": "repro case",
+  "main": "index.js",
+  "scripts": {
+    "start": "coffee lib/repro.coffee"
+  },
+  "dependencies": {
+    "botkit": "howdyai/botkit",
+    "coffee-script": "^1.10.0",
+    "get-urls": "^5.0.0",
+    "underscore": "^1.8.3",
+    "aws-sdk": "^2.2.30",
+    "request": "^2.66.0",
+    "fuzzysearch-js": "^0.2.0"
+  },
+  "engines": {
+    "node": "^4.2.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://example.com"
+  },
+  "license": "MIT"
+}

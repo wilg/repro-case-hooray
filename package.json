@@ -1,7 +1,7 @@
 {
-  "name": "repro case",
+  "name": "thing",
   "version": "0.0.1",
-  "description": "repro case",
+  "description": "thing",
   "main": "index.js",
   "scripts": {
     "start": "coffee lib/repro.coffee"
